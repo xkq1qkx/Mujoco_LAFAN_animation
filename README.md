@@ -13,7 +13,9 @@ This repository contains the code and resources for controlling Unitree robots. 
 Below are demonstration videos showcasing the capabilities of this project:
 
 
-![](https://github.com/user-attachments/assets/dabc25c0-893c-432d-a062-f3c7e373c7b1) ![](https://github.com/user-attachments/assets/6b8a8a2b-f07f-4985-ad9c-de1964990c03) ![](https://github.com/user-attachments/assets/cb3a9be4-25aa-4f81-ae13-ae2c65d68fbf)
+![](https://github.com/user-attachments/assets/dabc25c0-893c-432d-a062-f3c7e373c7b1){:height="50%" width="50%"}
+![](https://github.com/user-attachments/assets/6b8a8a2b-f07f-4985-ad9c-de1964990c03 =80x80) 
+![](https://github.com/user-attachments/assets/cb3a9be4-25aa-4f81-ae13-ae2c65d68fbf)
 
 
 
