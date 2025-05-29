@@ -14,6 +14,7 @@ Below are demonstration videos showcasing the capabilities of this project:
 
 <div style="position:relative;padding-bottom:56.25%;width:100%;height:0;">
     <iframe src="https://player.bilibili.com/player.html?isOutside=true&amp;aid=114339814052001&bvid=BV1GBopYvEo9&cid=29422521085&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute;height:100%;width:100%;"> </iframe></div>
+![](https://player.bilibili.com/player.html?isOutside=true&amp;aid=114339814052001&bvid=BV1GBopYvEo9&cid=29422521085&amp;page=1)
 
 7. 
 ## Getting Started
