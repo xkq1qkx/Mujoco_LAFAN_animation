@@ -13,7 +13,7 @@ This repository contains the code and resources for controlling Unitree robots. 
 Below are demonstration videos showcasing the capabilities of this project:
 
 
-![](https://player.bilibili.com/player.html?isOutside=true&amp;aid=114339814052001&bvid=BV1GBopYvEo9&cid=29422521085&amp;page=1)
+[![](https://player.bilibili.com/player.html?isOutside=true&amp;aid=114339814052001&bvid=BV1GBopYvEo9&cid=29422521085&amp;page=1)]
 
 7. 
 ## Getting Started
