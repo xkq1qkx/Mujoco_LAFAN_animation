@@ -13,8 +13,8 @@ This repository contains the code and resources for controlling Unitree robots. 
 Below are demonstration videos showcasing the capabilities of this project:
 
 1. [Demo Video 1](./video_demo/demo_dance1_subject1.mov)
-2. [Demo Video 2](./video_demo/demo_fall_and_getup.mov)
-3. [Demo Video 3](./video_demo/demo_fight.mov)
+3. **Demo Video 3**  
+    <video src="//player.bilibili.com/player.html?isOutside=true&aid=114591371632178&bvid=BV1Ks75z5Eg8&cid=30215638057&p=1" controls width="640"></video>
 4. [Demo Video 4](./video_demo/demo_jump.mov)
 
 ## Getting Started
