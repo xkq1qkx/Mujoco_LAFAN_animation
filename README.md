@@ -14,8 +14,8 @@ Below are demonstration videos showcasing the capabilities of this project:
 
 1. [Demo Video 1](./video_demo/demo_dance1_subject1.mov)
 3. **Demo Video 3**
-<video src="//player.bilibili.com/player.html?isOutside=true&aid=114591371632178&bvid=BV1Ks75z5Eg8&cid=30215638057&p=1" controls width="640"></video>
 5. [Demo Video 4](./video_demo/demo_jump.mov)
+6. <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114339814052001&bvid=BV1GBopYvEo9&cid=29422521085&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## Getting Started
 
