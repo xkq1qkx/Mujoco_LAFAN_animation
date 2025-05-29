@@ -23,28 +23,27 @@ Below are demonstration videos showcasing the capabilities of this project:
 
 7. 
 ## Getting Started
-
+1. If you need, you can create a new conda environment:
+    ```bash
+    conda create -n mujoco_lafan
+    conda activate mujoco_lafan
+    ```
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/unitree_control_agent.git
+    git clone https://github.com/xkq1qkx/Mujoco_LAFAN_animation.git
     ```
 2. Install dependencies:
     ```bash
-    pip install -r requirements.txt
+    pip install mujoco
     ```
-3. Run the application:
+3. Run the example visualization:
     ```bash
-    python main.py
+    cd Mujoco_LAFAN_animation
+    python example.py
     ```
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## Contact
-
-For any inquiries, please contact [your_email@example.com].
