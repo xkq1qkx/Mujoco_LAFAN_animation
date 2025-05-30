@@ -8,19 +8,16 @@ This repository contains the code and resources for controlling Unitree robots. 
 - Support for multiple Unitree robot models.
 - Real-time feedback and monitoring.
 
-## Demo Videos
+## Robot primitive Action Demo Videos
 
-Below are demonstration videos showcasing the capabilities of this project:
-
-
+Below are demonstration videos showcasing some of LAFAN's retarget actions in Mujoco:
 ![](https://github.com/user-attachments/assets/dabc25c0-893c-432d-a062-f3c7e373c7b1)
 ![](https://github.com/user-attachments/assets/6b8a8a2b-f07f-4985-ad9c-de1964990c03) 
 ![](https://github.com/user-attachments/assets/cb3a9be4-25aa-4f81-ae13-ae2c65d68fbf)
 
-
-
-
-7. 
+## My LLM-based Agent Demo video (without Action, but use weather tools)
+[![](https://i0.hdslb.com/bfs/archive/0b2a8ffb71cac12e502f1029f03cf7976663d03c.jpg)
+](https://www.bilibili.com/video/BV1wy7nzRExy/?vd_source=73e512caa65b4b2e190a5832c65c1193)
 ## Getting Started
 1. If you need, you can create a new conda environment:
     ```bash
