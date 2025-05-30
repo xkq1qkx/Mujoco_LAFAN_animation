@@ -1,5 +1,6 @@
 # Unitree Control Agent
 
+## ReActionRobot-Agent
 This repository contains the code and resources for controlling Unitree robots. It provides an easy-to-use interface for asking a robot-agent to reason and manage robot behaviors. It works like a "Robot Brain".
 
 ## Features
@@ -7,7 +8,7 @@ This repository contains the code and resources for controlling Unitree robots. 
 - Simple and intuitive control interface.
 - Support for multiple Unitree robot models. (only support unitree-g1, but easy to scale up)
 - Real-time feedback and monitoring. (using Mujoco viewer as the monitor)
-- First open source robot-agent based on LLM. (expand the "ReAction" into physical world, so we call it "ReActionRobot")
+- First open source robot-agent based on LLM. (expand the "ReAction" into physical world, so we call it **"ReActionRobot"**)
 - Primitive actions are defined in LAFAN dataset, and they are retarget to humanoid robots. (run, walk, fight, jump, fall and get up, sprint...)
 - Record the Chain-of-Thought of the model and the whole tool calling process.
 - Manually designed Agent structure using prompt engineering. (the prompt is saved in "agent_build_prompt.txt")
