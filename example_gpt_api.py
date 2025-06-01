@@ -42,9 +42,9 @@ def encode_image(image_path):
   with open(image_path, "rb") as image_file:
     return base64.b64encode(image_file.read()).decode('utf-8')
   
-#gpt_key="fa-YTNjYWE3ZGUtODgxYi00ODU2LWJhNzctZWExODAxNTE0ZDE3MTcyMTc1MDcwNzc4"
 #client = OpenAI(api_key=gpt_key,base_url=f"https://frostsnowjh.com/v1")
-gpt_key="sk-DqcZgldJZW1fAVivJHEM5QuUb76WrQfKZoRm1Bq1R5u69Fkt"
+#gpt_key=""
+# 请填入你自己的 OpenAI gpt_key
 client = OpenAI(api_key=gpt_key,base_url=f"https://api.chatanywhere.tech/v1")
 TOOLS_DESCRIPTION = """
 You are a humanoid robot control brain.You will be given a instruction by user. And you can get help from the assistant.
