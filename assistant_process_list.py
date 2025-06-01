@@ -38,7 +38,8 @@ def get_current_temperature(location):
     This function gets the current temperature for a given location
     by making an API call to a weather service.
     """
-    api_key = '287ff11843f0a63a13c5dd827451f851'
+    #api_key = ''
+    请输入你自己的Open wheather map 的 api_key
     if len(api_key) == 0:
         api_key = input("please input your OpenWeatherMap API key: ")
     base_url = "http://api.openweathermap.org/data/2.5/weather?"
